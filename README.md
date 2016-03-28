@@ -11,9 +11,9 @@ qq模拟程序
             udp：发送和接收消息。
 
 服务器后台maysql架构：
-表1：user_info(user_id,user_password,user_nickname)
-表2：friends_info(fnum,friend_id,user_id,friend_status)
-表3：login_info(lnum,user_ip,user_id,user_status)
+            表1：user_info(user_id,user_password,user_nickname)
+            表2：friends_info(fnum,friend_id,user_id,friend_status)
+            表3：login_info(lnum,user_ip,user_id,user_status)
 
 
 详细设计参考自：http://blog.csdn.net/zwx19921215/article/details/21392019
