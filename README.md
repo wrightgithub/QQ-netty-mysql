@@ -16,4 +16,4 @@ qq模拟程序
 表3：login_info(lnum,user_ip,user_id,user_status)
 
 
-详细设计参考自：牟尼的专栏 http://blog.csdn.net/u012027907
+详细设计参考自：http://blog.csdn.net/zwx19921215/article/details/21392019
